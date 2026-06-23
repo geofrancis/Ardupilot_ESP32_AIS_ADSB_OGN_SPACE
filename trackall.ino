@@ -20,6 +20,11 @@
 #include "mavlink/common/mavlink.h"
 #pragma GCC diagnostic pop
 
+
+
+// --- Network Infrastructure ---
+const char* OGN_HOST = "aprs.glidernet.org";
+
 // ========================================================================
 // 1. FREERTOS MUTEXES & THREAD-SAFE CONSTRUCTS
 // ========================================================================
