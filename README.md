@@ -11,3 +11,7 @@ space weather
 <img width="825" height="406" alt="image" src="https://github.com/user-attachments/assets/399d8a18-e534-4113-b5cb-ebca950d6e4b" />
 
 <img width="350" height="185" alt="image" src="https://github.com/user-attachments/assets/01f36e8f-c2f0-4a70-8b5d-cbc1042f8f82" />
+
+
+
+<img width="590" height="569" alt="image" src="https://github.com/user-attachments/assets/f1a8227f-e863-48bf-a6e6-20cce6c57369" />
